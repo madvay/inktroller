@@ -1,9 +1,3 @@
-# inktroller
-E-ink controller for Pi
-
-
-## License Notice
-````
 inktroller - Controller for e-ink from a Pi
 
 WARNING: You are responsible for following all relevant safety
@@ -53,4 +47,4 @@ licenses:
 # LIABILITY WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 # THE SOFTWARE.
-````
+
